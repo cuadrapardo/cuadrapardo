@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cuadrapardo
 - 👀 I’m interested in Computer Graphics
-- 🌱 Currrently studying a masters in High Performance Graphics with Games Engineering.
 - 📫 How to reach me -> email me at c.cuadrapardo@hotmail.com
 - More information at: cuadrapardo.github.io
 
